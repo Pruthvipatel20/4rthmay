@@ -43,7 +43,7 @@ Candidate candidates[MAX_CANDIDATES] = {
 int totalVotesCast = 0;
 
 void printDivider() {
-    printf("========================================\n");
+    printf("==========================================\n");
 }
 
 void displayLiveTally() {
