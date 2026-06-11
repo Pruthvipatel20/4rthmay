@@ -7,6 +7,7 @@
 #define PIN_LENGTH 5
 #define ID_LENGTH 10
 
+
 typedef struct {
     char id[ID_LENGTH];
     char pin[PIN_LENGTH];
